@@ -1,0 +1,14 @@
+{
+    "name": "shared_model_addon",
+    "description": "A Mojito Addon that loads a model and then caches it for the life time of a request.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Richard S Allinson",
+        "email": "nobody@yahoo-inc.com"
+    },
+    "yahoo": {
+        "mojito": {
+            "version": "*"
+        }
+    }
+}
