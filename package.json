@@ -1,5 +1,5 @@
 {
-    "name": "shared_model_addon",
+    "name": "mojito_mojit_addon_shared_model",
     "description": "A Mojito Addon that loads a model and then caches it for the life time of a request.",
     "version": "0.0.1",
     "author": {
